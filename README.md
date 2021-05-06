@@ -1,5 +1,4 @@
 ### :eyes:
-### :nose: :ear:
 ### :tongue:
 
 <!--
