@@ -2,6 +2,7 @@
 - [ ] __web-portfolio (...ing)__ 
 - [ ] __resume (write in .pdf)__
 - [ ] __projects review__
+- [ ] __JS study 🌱__
 
 
 <!--
