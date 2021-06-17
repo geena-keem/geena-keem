@@ -1,5 +1,8 @@
-### :eyes:
-### :tongue:
+## TO-DO :pencil: 
+- [ ] __web-portfolio (ing)__ 
+- [ ] __resume - write in .pdf__
+- [ ] __projects review__
+
 
 <!--
 **geena-keem/geena-keem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
