@@ -1,6 +1,6 @@
 ## TO-DO :pencil: 
-- [ ] __web-portfolio (ing)__ 
-- [ ] __resume - write in .pdf__
+- [ ] __web-portfolio (...ing)__ 
+- [ ] __resume (write in .pdf)__
 - [ ] __projects review__
 
 
