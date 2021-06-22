@@ -1,5 +1,5 @@
 ## 📃 TO-DO ✏
-- [ ] __web-portfolio (...ing) 🤬__ 
+- [ ] __web-portfolio (CSS finish, add responsive) 🙄__ 
 - [ ] __resume design (write in .pdf)__
 - [ ] __projects review__
 - [ ] __JS study 🌱__
