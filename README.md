@@ -1,6 +1,6 @@
 ## 📃 TO-DO ✏
 - [x] __~~web-portfolio~~__ 
-- [ ] __~~resume design (write in .pdf)~~__
+- [x] __~~resume design (write in .pdf)~~__
 - [ ] __projects review__
 - [ ] __JS study 🌱__
 
