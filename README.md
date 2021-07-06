@@ -1,7 +1,7 @@
 ## 📃 TO-DO ✏
 - [x] __~~web-portfolio~~__ 
 - [x] __~~resume design (write in .pdf)~~__
-- [ ] __~~projects review~~ (blog ~~backend~~ frontend😭)__
+- [ ] __~~projects review~~ (blog review ! 😭)__
 - [ ] __JS study 🌱__
 
 
