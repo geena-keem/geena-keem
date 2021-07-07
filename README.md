@@ -1,7 +1,7 @@
 ## 📃 TO-DO ✏
 - [x] __~~web-portfolio~~__ 
 - [x] __~~resume design (write in .pdf)~~__
-- [ ] __blog 🙄
+- [ ] __blog 🙄__
 
 
 <!--
