@@ -1,4 +1,4 @@
-<div aligh="center"> 💻
+<div align="center"> 💻
   
   keep studying </div>
 
