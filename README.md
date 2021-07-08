@@ -1,7 +1,6 @@
-## 📃 TO-DO ✏
-- [x] __~~web-portfolio~~__ 
-- [x] __~~resume design (write in .pdf)~~__
-- [ ] __blog 🙄__
+<div aligh="center"> 💻
+  
+  keep studying </div>
 
 
 <!--
