@@ -2,7 +2,7 @@
   
   keep studying <br /><br />
   TO-DO <br />
- ▫ project ✌🏻...!</div>
+ ▫ project ✌🏻...ing !!</div>
 
 
 <!--
