@@ -2,7 +2,8 @@
   
   keep studying <br /><br />
   TO-DO <br />
- ▫ project ✌🏻...ing !!</div>
+　　 ▫ project ✌🏻...ing !! <br />
+▫ react study</div>
 
 
 <!--
