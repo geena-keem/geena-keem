@@ -3,7 +3,7 @@
   keep studying <br /><br />
   TO-DO <br />
 　　 ▫ project ✌🏻...ing !! <br />
-▫ react study</div>
+▫ JS, react study </div>
 
 
 <!--
