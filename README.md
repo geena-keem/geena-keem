@@ -1,9 +1,6 @@
 <div align="center"> 💻
   
   keep studying <br /><br />
-  TO-DO <br />
-　　 ▫ project ✌🏻...ing !! <br />
-▫ JS, react study </div>
 
 
 <!--
